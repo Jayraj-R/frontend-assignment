@@ -1,6 +1,6 @@
 # Invoice Generator
 
-[View Online Demo](https://jayraj-r.github.io/Invoice-Generator/invoice)
+[View Online Demo](https://jayraj-r.github.io/Invoice-Generator/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and styled using [Material-UI](https://material-ui.com/)
 
